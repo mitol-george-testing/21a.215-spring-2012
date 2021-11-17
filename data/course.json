@@ -1,0 +1,38 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0528de4d-7881-6e61-492b-c1af2ccf08b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Disease and Health: Culture, Society, and Ethics",
+  "course_description": "This course examines how medicine is practiced cross-culturally, with particular emphasis on Western biomedicine. Students analyze medical practice as a cultural system, focusing on the human, as opposed to the biological, side of things. Also considered is how people in different cultures think of disease, health, body, and mind.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.215",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
